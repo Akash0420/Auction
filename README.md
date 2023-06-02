@@ -1,7 +1,6 @@
 # Successfully led a team of 7 members to secure first place among 16 teams with 100+ participants in the prestigious Inter-College Hackathon organized by TIAA India. </br>
 ### Introduction <br/>
-An online auction system is a web-based platform that enables individuals and businesses to buy and sell goods and services through a bidding process. Unlike traditional auctions where buyers and sellers are physically present at a specific location, online auctions can be conducted from anywhere in the world, making it a convenient and efficient way to transact business.
-Online auction systems typically provide a user-friendly interface where participants can browse and search for items, view item descriptions and photos, place bids, and track the progress of auctions in real-time.
+An online auction system is a convenient web-based platform that allows individuals and businesses to buy and sell goods and services through a bidding process. It eliminates the need for physical presence, enabling participants to engage from anywhere. These systems offer user-friendly interfaces for browsing items, placing bids, and tracking auctions in real-time, making it an efficient way to transact business.
 
 ### Problem Statement <br/>
 The problem with public auction is that the participation of the general public is very limited. The aim of the project is to socialize the auction so that people from far & wide and even across the continent can participate in it. The “Online Auction” site is developed with a vision to wipe out the inherent problems of “Conventional Auction House”.  <br/>
@@ -23,4 +22,4 @@ The problem with public auction is that the participation of the general public 
 * SQLite<br/>
 
 ### Conclusion<br/>
-online auction systems offer numerous benefits over traditional in-person auctions. They provide convenience, a larger audience, greater transparency, access to more information, and lower costs for buyers and sellers alike. Additionally, online auctions can be conducted using various software and platforms, including dedicated auction software, e-commerce platforms, and social media. Online auctions have become an increasingly popular method for selling a wide range of goods and services, from collectibles and art to real estate and vehicles. Overall, online auction systems have revolutionized the auction industry, making it easier and more accessible for people to buy and sell items in a competitive and transparent marketplace.
+Online auction systems have revolutionized the auction industry by offering convenience, a wider audience, transparency, more information, and lower costs. These auctions can be conducted using various software and platforms, making it easier to sell a wide range of goods and services. From collectibles to real estate, online auctions have made buying and selling items more accessible in a competitive and transparent marketplace.
